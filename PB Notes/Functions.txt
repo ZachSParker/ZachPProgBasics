@@ -1,0 +1,7 @@
+functions are a data structure that runs a certain code when called, some are built in or included with certain modules.
+to define a function
+
+function name() {
+//code or instructions that is run everytime this is called or invoked
+}
+if a variable is defined in a function it only has scope inside that function.

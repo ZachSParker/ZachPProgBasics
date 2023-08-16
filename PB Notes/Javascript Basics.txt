@@ -1,0 +1,78 @@
+Javascript and Programming basics
+
+Parts of an app:
+there are three parts of an application
+Front End: what the user sees ie Beauty
+Back End: Moving parts of the code ie Braun
+Database: Where the data is stored
+
+It is good practice to have
+back end , front end and databases seperate
+and then added to a bigger overarching program
+as modules.
+
+
+Javascript Variables and Data Types
+
+Javascript is a programming language used with 
+other modules and considered
+the brains of the front end in an application
+
+A variable is a declaration / data that we want to
+utilize later, syntax may vary per language
+SYNTAX
+var variablename value
+
+CamelCasing
+camel casing is common notation for naming
+variables looks like myName
+
+to declare a string in JS
+use ' ' or " " depending on data stored
+
+Boolean is true or false
+define a boolean with 
+
+SYNTAX 
+var variablename true/false
+
+Integers are numbers
+
+to print to the console use
+console.log(variable)
+
+Computers read code from left 
+to right, top to bottom
+
+Languages do not add a space between two strings
+so make your own " " variable in the
+console.log() statement
+
+the , operator seperates and logs to the console
+without them combining into one variable
+
+the + operator adds two variables together
+
+
+
+Arrays:
+Collection of data, it can have any primitive 
+datatypes (strings, ints, bools, floats , chars)
+Index
+index starts at [0] and then goes up
+example of array
+["Kyle",4,"Zach", 6]
+
+to call a certain position in an array you use
+console.log(array[position])
+
+.length can be used on strings and arrays to figure out how "long"
+an array or string is
+
+.push(variable) will add a variable to the "end" of an array
+.pop will remove the data stored in the last array position.
+
+ 
+
+
+

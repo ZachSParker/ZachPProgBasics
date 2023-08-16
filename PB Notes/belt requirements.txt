@@ -1,0 +1,38 @@
+belt requirements
+each stack is going to have a belt exam, youll have 24 hours to complete your exam once its open 
+you can use the learn platform, google and w3schools.com
+you have 3 attempts to pass the exam
+
+conditionals
+conditionals use an if or else statement that evaluate to true or false
+
+var x = 4
+if(x == 1)// if this is false it will skip this code block
+{
+//execute this code if true
+	console.log("X is 1")
+}
+else if(x==2){
+	console.log("x is 2")
+}
+else if(x==3){
+	console.log("x is 3")
+}
+else if(x==4){
+	console.log("x is 4")// only this is ran because its true
+}
+
+nested conditions
+to check multiple conditions you can nest if statements. this is useful to run code only if both conditions are true
+
+&& operator is another way to nest conditions.
+
+|| can be used to check 1 condition or the other, either can be true to
+execute the code.
+
+
+
+
+
+
+
